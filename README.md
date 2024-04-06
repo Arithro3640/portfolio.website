@@ -1,2 +1,2 @@
-# portfolio.website
-html, css &amp; javascript portfolio
+# Portfolio
+HTML, CSS, and Javascript portfolio
